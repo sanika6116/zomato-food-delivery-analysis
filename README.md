@@ -42,6 +42,9 @@ This project presents an interactive food delivery analysis dashboard developed 
 - `A5_Report.docx` — Project report.
 - PNG files — Dashboard screenshots.
 
+## Live Video Demo
+https://lnkd.in/p/dPzmCF7w
+
 ## How to Explore
 1. Clone or download this repository.
 2. Open `Food Analysis Dashboard.pbix` using Power BI Desktop.
